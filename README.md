@@ -10,7 +10,6 @@
 
 - Python 3.x
 - Apache Spark (PySpark)
-- Pandas (para comparações pontuais)
 - Jupyter Notebook
 - Git / GitHub
 
